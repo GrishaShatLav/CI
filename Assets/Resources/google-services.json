@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225453283473",
+    "project_id": "mobilkiz",
+    "storage_bucket": "mobilkiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225453283473:android:d72bd5ce3485696d788730",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqYcUVsoy-3jhYKrbpXOp1_pfdFmx9wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
